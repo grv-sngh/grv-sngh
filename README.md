@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Singh.
-- 👀 I’m interested in Web Development, UI Design and Game Development. 
+- 👀 I’m interested in Web Development, UI Design and AI/ML. 
 - 🌱 I’m currently learning Django, Bootstrap, Java.
 - 💞️ I’m looking to collaborate on Django and Web Projects.
 - 📫 You can reach me at [@gauravsync](https://twitter.com/gauravsync), [@protoplasm_m](https://www.instagram.com/protoplasm_m) 
