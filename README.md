@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav Singh.
+- 👋 Hi, I’m Gaurav.
 - 👀 I’m interested in Web Development, UI Design and Data Science. 
 - 🌱 I’m currently learning SQL, Python, C++.
 - 💞️ I’m looking to collaborate on Web and Data Science Projects.
